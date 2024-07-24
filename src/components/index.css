@@ -1,0 +1,16 @@
+.containerr {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .values {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+  }
+  
+  
